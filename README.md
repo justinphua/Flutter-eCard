@@ -21,11 +21,11 @@ Project skeleton workspace, to demostrate creation of stateless widget, with com
 
 ## TODO
 
+- Donwload fonts style from https://fonts.google.com (downloaded at /fonts folder, for your conveniences)
 - Add configuration at pubspec.yaml, enable Flutter to access to local assets images and fonts.
 - Create stateless widget.
 - User interface:- <br>
   <img src="https://user-images.githubusercontent.com/1797547/129457944-d412340e-135e-4109-849d-6fe082143777.png" height="450">
-- 
 
         
 ## Resources

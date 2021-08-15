@@ -1,4 +1,4 @@
-# My Lucky Day
+# eCard v1
 
 Project skeleton workspace, to demostrate creation of stateless widget, with combination of :- 
   - single child layout widget 
